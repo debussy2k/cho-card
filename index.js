@@ -1,6 +1,6 @@
-import * as THREE from '../threejs_master/build/three.module.js';
-import { OrbitControls } from '../threejs_master/examples/jsm/controls/OrbitControls.js';
-import { GLTFLoader } from '../threejs_master/examples/jsm/loaders/GLTFLoader.js';
+import * as THREE from './lib-threejs/three.module.js';
+import { OrbitControls } from './lib-threejs/OrbitControls.js';
+import { GLTFLoader } from './lib-threejs/GLTFLoader.js';
 
 var scene, camera, renderer;
 var controls;
