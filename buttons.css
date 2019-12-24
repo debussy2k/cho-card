@@ -1,0 +1,36 @@
+.page1-btn {
+    position: absolute;
+    right: 16px;
+    top: 56px;
+    width: 64px;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 29px;
+    color : white;
+    background-color:  #000000; 
+}
+.page2-btn {
+    position: absolute;
+    right: 16px;
+    top: 90px;
+    width: 64px;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 29px;
+    color : white;
+    background-color:  #000000; 
+}
+.animation-btn {
+    position: absolute;
+    right: 16px;
+    top: 124px;
+    width: 64px;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 29px;
+    color : white;
+    background-color:  #000000; 
+}
